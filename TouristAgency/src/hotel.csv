@@ -1,0 +1,17 @@
+hotelId,hotelName,hotelAddress,hotelRate,hotelPrice,roomAvailable
+1,Aryaduta Hotel,Jakarta,4.5,575,100
+2,The Green Suites,Benhill,4.7,490,80
+3,Lor Inn,Solo,4.2,612,95
+4,JYP Hotel,Seoul,4.6,500,135
+5,Hotel 88,Johor Bahru,3.6,520,110
+6,Kempinski Hotel,Bandung,4.2,530,95
+7,Tokyo Palace Hotel,Tokyo,4.8,600,120
+8,Vienna Grand Suites,Vienna,4.6,780,80
+9,Delhi Heritage Inn,New Delhi,3.9,420,100
+10,Singapore Skyline Hotel,Singapore,4.7,450,150
+11,Bangkok Oasis Resort,Bangkok,4.3,550,90
+12,Barcelona Boutique Hotel,Barcelona,4.5,400,110
+13,Amsterdam Canal View Hotel,Amsterdam,4.6,320,130
+14,Shanghai Luxury Suites,Shanghai,4.7,580,160
+15,Berlin Riverside Inn,Berlin,4.4,390,100
+
